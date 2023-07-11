@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e82f8605-54ae-416b-9561-ca9dbcff69e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Pos-Fiap/projetos-estudo/controle-produtos/src/main/java/com/produtos/apriprodutos/dto/ProductDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pos-Fiap/projetos-estudo/controle-produtos/src/main/java/com/produtos/apriprodutos/dto/ProductDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Pos-Fiap/projetos-estudo/controle-produtos/src/main/java/com/produtos/apriprodutos/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pos-Fiap/projetos-estudo/controle-produtos/src/main/java/com/produtos/apriprodutos/repository/ProductRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Pos-Fiap/projetos-estudo/controle-produtos/src/main/resources/application-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Pos-Fiap/projetos-estudo/controle-produtos/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pos-Fiap/projetos-estudo/controle-produtos/src/main/resources/import.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Pos-Fiap/projetos-estudo/energy-api/src/main/java/com/energy/api/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pos-Fiap/projetos-estudo/energy-api/src/main/java/com/energy/api/config/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Pos-Fiap/projetos-estudo/innovate-energy2/src/main/java/br/com/innovateenergy/api/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pos-Fiap/projetos-estudo/innovate-energy2/src/main/java/br/com/innovateenergy/api/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/dslist/entities/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/dslist/entities/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/br/dslist/entities/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/br/dslist/entities/Game.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +30,6 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="Use Maven wrapper" />
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
@@ -46,24 +42,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/arizona/Documents/estudos/Java/dslist/src/main/resources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.scopes",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/arizona/Documents/estudos/Java/dslist&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;9d15200595a0d7b76823d63005cd8590&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
@@ -86,7 +83,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689040508343</updated>
-      <workItem from="1689040509682" duration="1871000" />
+      <workItem from="1689040509682" duration="2319000" />
+      <workItem from="1689042938210" duration="80000" />
+      <workItem from="1689043033961" duration="330000" />
     </task>
     <servers />
   </component>
