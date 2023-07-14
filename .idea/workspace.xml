@@ -7,11 +7,17 @@
     <list default="true" id="e82f8605-54ae-416b-9561-ca9dbcff69e4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/br/dslist/controllers/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/dslist/controllers/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/dslist/dto/GameDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/dslist/dto/GameDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/dslist/dto/GameMinDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/dslist/dto/GameMinDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/dslist/entities/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/dslist/entities/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/dslist/repositories/GameRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/dslist/repositories/GameRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/br/dslist/services/GameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/dslist/services/GameService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/import.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/br/dslist/controllers/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/br/dslist/controllers/GameController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/br/dslist/services/GameService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/br/dslist/services/GameService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/br/dslist/controllers/GameController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/br/dslist/dto/GameDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/br/dslist/dto/GameMinDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/br/dslist/entities/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/br/dslist/repositories/GameRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/br/dslist/services/GameService.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -71,6 +77,12 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.br.dslist.controllers" />
+      <recent name="com.br.dslist.repositories" />
+      <recent name="com.br.dslist.services" />
+      <recent name="com.br.dslist.dto" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="DslistApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
@@ -91,7 +103,7 @@
       <updated>1689040508343</updated>
       <workItem from="1689040509682" duration="2319000" />
       <workItem from="1689042938210" duration="80000" />
-      <workItem from="1689043033961" duration="8045000" />
+      <workItem from="1689043033961" duration="13802000" />
     </task>
     <servers />
   </component>

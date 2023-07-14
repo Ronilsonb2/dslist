@@ -1,13 +1,12 @@
 package com.br.dslist.dto;
 
 import com.br.dslist.entities.Game;
-import jakarta.persistence.Column;
 import org.springframework.beans.BeanUtils;
 
 public class GameDTO {
     private Long id;
     private String title;
-    private String year;
+    private Integer year;
     private String genre;
     private String platforms;
     private String score;
@@ -35,11 +34,11 @@ public class GameDTO {
         this.title = title;
     }
 
-    public String getYear() {
+    public Integer getYear() {
         return year;
     }
 
-    public void setYear(String year) {
+    public void setYear(Integer year) {
         this.year = year;
     }
 

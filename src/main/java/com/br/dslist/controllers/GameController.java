@@ -2,7 +2,6 @@ package com.br.dslist.controllers;
 
 import com.br.dslist.dto.GameDTO;
 import com.br.dslist.dto.GameMinDTO;
-import com.br.dslist.entities.Game;
 import com.br.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
